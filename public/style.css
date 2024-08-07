@@ -1,0 +1,26 @@
+body {
+    margin-top: 20vw;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.one{
+    color: black;
+    background-color: green;
+    font-size: x-large;
+    padding: 6px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+
+.two{
+    color: black;
+    background-color: red;
+    font-size: x-large;
+    padding: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+    
+}
